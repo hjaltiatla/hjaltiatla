@@ -1,6 +1,6 @@
 ### Hi there, I'm Hjalti 👋
 
-- 🔭 I’m currently seeking new opportunities in the devops space
+- 🔭 I’m currently seeking new opportunities in the DevOps space
 - 🌱 I’m currently learning/improving my skills in Terraform,Ansible,Python and Github Actions
 - 👯 I’m a selfhosted and home automation enthusiast 
 
